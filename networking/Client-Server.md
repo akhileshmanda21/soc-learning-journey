@@ -108,7 +108,6 @@ A SOC Analyst monitors network traffic to identify suspicious communication and 
 
 ## 📚 Resources
 
-- <tryhackme.com>
-- <netacad.com>
-
+- [TryHackMe](https://tryhackme.com/)
+- [Cisco Networking Academy](https://www.netacad.com/)
 ---
